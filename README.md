@@ -216,9 +216,8 @@ This repository represents a **complete end-to-end system**, from database inter
 
 **ChatGPT** : Helped with rdbms logic and debugging.
             : Helped to compile documentation.
-**create.xyz**: Helped to generate tailwind styles for frontend UI allowing me to focus on logic cutting the frontend development time by a significant amount.
 
----
+**create.xyz**: Helped to generate tailwind styles for frontend UI allowing me to focus on logic cutting the frontend development time by a significant amount.
 
 ---
 
